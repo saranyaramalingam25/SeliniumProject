@@ -1,0 +1,6 @@
+Browser=chrome 
+Url=https://adactinhotelapp.com/
+UserName= saranya25
+Password= D03713
+jvmPath= \\target
+jsonPath=\\target\\output.json
